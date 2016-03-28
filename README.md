@@ -18,7 +18,7 @@ Create a file ``modules`` with the following content in your ``site`` directory:
 
 ``GLUON_SITE_FEEDS="rublogin"``
 
-``PACKAGES_SSIDCHANGER_REPO=https://github.com/muebau/rub-login.git``
+``PACKAGES_RUBLOGIN_REPO=https://github.com/muebau/rub-login.git``
 
 ``PACKAGES_RUBLOGIN_COMMIT=3ccd3716fb5c4eb6dcd5d86a21bb57c15954070b``
 

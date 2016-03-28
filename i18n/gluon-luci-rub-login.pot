@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "RUB ID"
+msgstr ""
+
+msgid "RUB Login"
+msgstr ""
+
+msgid ""
+"If your Internet connection is provided by the Ruhr University of Bochum (RUB) "
+"a login is needed. If this option is enabled the Internet connection will be checked regularly. "
+"If there is no connection the login website is called with the credentials."
+msgstr ""
